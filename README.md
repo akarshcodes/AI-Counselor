@@ -169,6 +169,6 @@ For feedback, suggestions, or collaborations, feel free to open an issue or reac
 
 ---
 
-## 🌐 Live Demo (optional)
+## Link 
 
-> 📌 Add link here once hosted (e.g., Streamlit Cloud)
+> Prefer this link locally for viewing: http://172.17.34.11:8502/
