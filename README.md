@@ -23,7 +23,7 @@
 
 | Home Page | Verse Display with Concept Map |
 |----------|-------------------------------|
-| ![home]((https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(275).png)) | ![verse_view](https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(276).png) |
+| ![home]((https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(275).png)) | ![verse_view]((https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(276).png)) |
 
 ---
 
