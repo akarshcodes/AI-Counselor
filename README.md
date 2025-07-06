@@ -1,7 +1,7 @@
 
 # 🕉 Bhagavad Gita AI Counselor
 
-![Bhagavad Gita AI Counselor](main/Screenshot(274).png)
+![Bhagavad Gita AI Counselor]([main/Screenshot(274).png](https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(274).png))
 
 **Bhagavad Gita AI Counselor** is an intelligent spiritual guide powered by semantic search and AI reasoning. It lets users ask life questions and receive contextual guidance from verses, commentaries, and translations of the Bhagavad Gita, along with AI-generated explanations, analogies, and actionable steps.
 
@@ -23,7 +23,7 @@
 
 | Home Page | Verse Display with Concept Map |
 |----------|-------------------------------|
-| ![home](images/home.png) | ![verse_view](images/verse_view.png) |
+| ![home]((https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(275).png)) | ![verse_view](https://github.com/akarshcodes/AI-Counselor/blob/main/Screenshot%20(276).png) |
 
 ---
 
